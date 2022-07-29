@@ -1,7 +1,7 @@
 # Azure Monitor
 **Objetivo:** Conocer el funcionamiento del recurso de Azure Monitor.
 
-![](/imagenes/virtual%20machine.png)
+![](/imagenes/monitor.jpg)
 
 **Requisitos**
 - Cuenta de Azure con una suscripción activa
